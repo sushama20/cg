@@ -1,0 +1,7 @@
+C:\Capgemini\Day8\Day8Sol\ReflectionEg\bin\Debug\ReflectionEg.exe.config
+C:\Capgemini\Day8\Day8Sol\ReflectionEg\bin\Debug\ReflectionEg.exe
+C:\Capgemini\Day8\Day8Sol\ReflectionEg\bin\Debug\ReflectionEg.pdb
+C:\Capgemini\Day8\Day8Sol\ReflectionEg\obj\Debug\ReflectionEg.csprojAssemblyReference.cache
+C:\Capgemini\Day8\Day8Sol\ReflectionEg\obj\Debug\ReflectionEg.csproj.CoreCompileInputs.cache
+C:\Capgemini\Day8\Day8Sol\ReflectionEg\obj\Debug\ReflectionEg.exe
+C:\Capgemini\Day8\Day8Sol\ReflectionEg\obj\Debug\ReflectionEg.pdb

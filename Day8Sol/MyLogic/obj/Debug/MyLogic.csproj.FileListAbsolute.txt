@@ -1,0 +1,6 @@
+C:\Capgemini\Day8\Day8Sol\MyLogic\bin\Debug\MyLogic.dll
+C:\Capgemini\Day8\Day8Sol\MyLogic\bin\Debug\MyLogic.pdb
+C:\Capgemini\Day8\Day8Sol\MyLogic\obj\Debug\MyLogic.csprojAssemblyReference.cache
+C:\Capgemini\Day8\Day8Sol\MyLogic\obj\Debug\MyLogic.csproj.CoreCompileInputs.cache
+C:\Capgemini\Day8\Day8Sol\MyLogic\obj\Debug\MyLogic.dll
+C:\Capgemini\Day8\Day8Sol\MyLogic\obj\Debug\MyLogic.pdb

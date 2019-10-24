@@ -1,0 +1,10 @@
+C:\Capgemini\Day8\Day8Sol\Serialization\bin\Debug\Serialization.exe.config
+C:\Capgemini\Day8\Day8Sol\Serialization\bin\Debug\Serialization.exe
+C:\Capgemini\Day8\Day8Sol\Serialization\bin\Debug\Serialization.pdb
+C:\Capgemini\Day8\Day8Sol\Serialization\obj\Debug\Serialization.csprojAssemblyReference.cache
+C:\Capgemini\Day8\Day8Sol\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Capgemini\Day8\Day8Sol\Serialization\obj\Debug\Serialization.exe
+C:\Capgemini\Day8\Day8Sol\Serialization\obj\Debug\Serialization.pdb
+C:\Capgemini\Day8\Day8Sol\Serialization\bin\Debug\Newtonsoft.Json.dll
+C:\Capgemini\Day8\Day8Sol\Serialization\bin\Debug\Newtonsoft.Json.xml
+C:\Capgemini\Day8\Day8Sol\Serialization\obj\Debug\Serialization.csproj.CopyComplete
